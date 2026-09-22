@@ -1,0 +1,6 @@
+# Ignore everything in this folder by default
+*
+
+# BUT do NOT ignore server2.py or .gitignore
+!server2.py
+!.gitignore
